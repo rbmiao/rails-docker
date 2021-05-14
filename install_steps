@@ -1,0 +1,12 @@
+```
+curl --compressed -o- -L https://yarnpkg.com/install.sh | bash
+yarn --version
+export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
+yarn --version
+
+rails new MYAPP
+cd MYAPP/
+
+bundle update && bundle install
+rails server -p $PORT -b 0.0.0.0
+```
