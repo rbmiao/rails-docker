@@ -1,6 +1,6 @@
 # Docker Rails App
 
-Ruby on rails development Environment.
+Ruby on rails development Environment. Default port changes to :3031 instead of :3000
 
 ## Docker
 
