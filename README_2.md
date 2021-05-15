@@ -3,6 +3,7 @@
 Ruby on rails development Environment
 
 Project has been previous created on local directory.
+(It is created by steps in README.md)
 
 Then it will be copied to /home/app/MYAPP in docker image.
 After creating docker container, rails server starts automatically.
