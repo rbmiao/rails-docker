@@ -9,4 +9,14 @@ cd MYAPP/
 
 bundle update && bundle install
 rails server -p $PORT -b 0.0.0.0
+
+```
+
+
+```
+Dockerfile:
+RUN rails new MYAPP 
+RUN cd MYAPP  
+RUN bundle update && bundle install
+RUN rails server -p $PORT -b 0.0.0.0
 ```
