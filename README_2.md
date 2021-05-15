@@ -1,7 +1,10 @@
 # Docker Rails App
 
-Ruby on rails development Environment.
-Project has been copied to /home/app/MYAPP directory.
+Ruby on rails development Environment
+
+Project has been previous created on local directory.
+
+Then it will be copied to /home/app/MYAPP in docker image.
 After creating docker container, rails server starts automatically.
 Only you do is to check web browser for localhost:3031
 
