@@ -1,6 +1,9 @@
 # Docker Rails App
 
 Ruby on rails development Environment.
+Project has been copied to /home/app/MYAPP directory.
+After creating docker container, rails server starts automatically.
+Only you do is to check web browser for localhost:3031
 
 ## Docker
 
